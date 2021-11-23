@@ -1,0 +1,166 @@
+{
+    "hello": {
+        "password": "hello",
+        "guesses": 84,
+        "guesses_log10": 1.9242792860618814,
+        "sequence": [
+            {
+                "pattern": "dictionary",
+                "i": 0,
+                "j": 4,
+                "token": "hello",
+                "matched_word": "hello",
+                "rank": 83,
+                "dictionary_name": "passwords",
+                "reversed": false,
+                "l33t": false,
+                "base_guesses": 83,
+                "uppercase_variations": 1,
+                "l33t_variations": 1,
+                "guesses": 83,
+                "guesses_log10": 1.919078092376074
+            }
+        ],
+        "calc_time": "0:00:00.001217",
+        "crack_times_seconds": {
+            "online_throttling_100_per_hour": 3024.000000000000167865721323,
+            "online_no_throttling_10_per_second": 8.4,
+            "offline_slow_hashing_1e4_per_second": 0.0084,
+            "offline_fast_hashing_1e10_per_second": 8.4E-9
+        },
+        "crack_times_display": {
+            "online_throttling_100_per_hour": "50 minutes",
+            "online_no_throttling_10_per_second": "8 seconds",
+            "offline_slow_hashing_1e4_per_second": "less than a second",
+            "offline_fast_hashing_1e10_per_second": "less than a second"
+        },
+        "score": 0,
+        "feedback": {
+            "warning": "This is a top-100 common password.",
+            "suggestions": [
+                "Add another word or two. Uncommon words are better."
+            ]
+        }
+    },
+    "india": {
+        "password": "india",
+        "guesses": 324,
+        "guesses_log10": 2.5105450102066116,
+        "sequence": [
+            {
+                "pattern": "dictionary",
+                "i": 0,
+                "j": 4,
+                "token": "india",
+                "matched_word": "india",
+                "rank": 323,
+                "dictionary_name": "english_wikipedia",
+                "reversed": false,
+                "l33t": false,
+                "base_guesses": 323,
+                "uppercase_variations": 1,
+                "l33t_variations": 1,
+                "guesses": 323,
+                "guesses_log10": 2.5092025223311025
+            }
+        ],
+        "calc_time": "0:00:00.000379",
+        "crack_times_seconds": {
+            "online_throttling_100_per_hour": 11664.00000000000064748206796,
+            "online_no_throttling_10_per_second": 32.4,
+            "offline_slow_hashing_1e4_per_second": 0.0324,
+            "offline_fast_hashing_1e10_per_second": 3.24E-8
+        },
+        "crack_times_display": {
+            "online_throttling_100_per_hour": "3 hours",
+            "online_no_throttling_10_per_second": "32 seconds",
+            "offline_slow_hashing_1e4_per_second": "less than a second",
+            "offline_fast_hashing_1e10_per_second": "less than a second"
+        },
+        "score": 0,
+        "feedback": {
+            "warning": "",
+            "suggestions": [
+                "Add another word or two. Uncommon words are better."
+            ]
+        }
+    },
+    "ram": {
+        "password": "ram",
+        "guesses": 1001,
+        "guesses_log10": 3.0004340774793183,
+        "sequence": [
+            {
+                "pattern": "bruteforce",
+                "token": "ram",
+                "i": 0,
+                "j": 2,
+                "guesses": 1000,
+                "guesses_log10": 2.9999999999999996
+            }
+        ],
+        "calc_time": "0:00:00.000150",
+        "crack_times_seconds": {
+            "online_throttling_100_per_hour": 36036.00000000000200039984577,
+            "online_no_throttling_10_per_second": 100.1,
+            "offline_slow_hashing_1e4_per_second": 0.1001,
+            "offline_fast_hashing_1e10_per_second": 1.001E-7
+        },
+        "crack_times_display": {
+            "online_throttling_100_per_hour": "10 hours",
+            "online_no_throttling_10_per_second": "2 minutes",
+            "offline_slow_hashing_1e4_per_second": "less than a second",
+            "offline_fast_hashing_1e10_per_second": "less than a second"
+        },
+        "score": 0,
+        "feedback": {
+            "warning": "",
+            "suggestions": [
+                "Add another word or two. Uncommon words are better."
+            ]
+        }
+    },
+    "aditya": {
+        "password": "aditya",
+        "guesses": 12342,
+        "guesses_log10": 4.091385542078368,
+        "sequence": [
+            {
+                "pattern": "dictionary",
+                "i": 0,
+                "j": 5,
+                "token": "aditya",
+                "matched_word": "aditya",
+                "rank": 12341,
+                "dictionary_name": "passwords",
+                "reversed": false,
+                "l33t": false,
+                "base_guesses": 12341,
+                "uppercase_variations": 1,
+                "l33t_variations": 1,
+                "guesses": 12341,
+                "guesses_log10": 4.091350352313579
+            }
+        ],
+        "calc_time": "0:00:00.000394",
+        "crack_times_seconds": {
+            "online_throttling_100_per_hour": 444312.0000000000246642706259,
+            "online_no_throttling_10_per_second": 1234.2,
+            "offline_slow_hashing_1e4_per_second": 1.2342,
+            "offline_fast_hashing_1e10_per_second": 0.0000012342
+        },
+        "crack_times_display": {
+            "online_throttling_100_per_hour": "5 days",
+            "online_no_throttling_10_per_second": "21 minutes",
+            "offline_slow_hashing_1e4_per_second": "1 second",
+            "offline_fast_hashing_1e10_per_second": "less than a second"
+        },
+        "score": 1,
+        "feedback": {
+            "warning": "This is a very common password.",
+            "suggestions": [
+                "Add another word or two. Uncommon words are better."
+            ]
+        }
+    }
+}

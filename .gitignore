@@ -1,0 +1,9 @@
+# sys files
+.DS_Store
+
+# python files
+__pycache__/
+*.py[cod]
+
+# vsc files
+**/.vscode
