@@ -1,25 +1,11 @@
-# Dump analysis
+# Uncovering strategies for password creation and updation for Indian users
 
 400k potentially Indian email accounts with passwords to be analysed.
 
+Read our report at `\documentation\reports` for the findings
+
 ---
 
-## Cleaning Log
-
-- Removed pure duplicate entries (same email id and password)
-
-- Removed entries with either a NULL account name or password
-
-- Removed entries with account names having no `@`
-
-### Todo
-
-- [ ] Domain cleaning
-  - [ ] Identify a baseline for "good" domains (gmail, yahoo, rediffmail)
-    - [ ] Identify the possible variants (case [GMAIL], spelling [gamil])
-  - [ ] Calculate the significance and reasonability of removal  
-    - Passwords mentioned in pipal analysis at `documentation/README.md` have the weirdest domains (examples listed in the doc): most probably from age old forums as only some of them are still part of the indexed web
-    - Possibility of investigation: It will be off the study goals
-    - The quantity is statistically insignificant: very less number, can probably proove with some p-value sham
+This is the public codebase for our term project in CS60081: Usable Security and Privacy. We have not included any of the data from the leak we have analysed in order to protect the users' privacy.
 
 ---
